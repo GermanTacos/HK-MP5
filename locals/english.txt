@@ -1,0 +1,30 @@
+{
+
+	"menu_l_global_value_slap_919" : "This is a Custom Weapon!",
+	
+	"bm_w_slap_919" : "MP5A3",
+	
+	"bm_menu_receiver_cover"          : "Dust Cover",
+	"bm_menu_receiver_cover_plural"   : "Dust Covers",
+	"bm_menu_pistol_grip_cover"       : "Grip",
+	"bm_menu_pistol_grip_plural"      : "Grips",
+	
+	"bm_wp_wpn_fps_smg_slap_919_hg_mp5a3_wood" : "Wooden StG-58 Handguard",
+	
+	"bm_wp_wpn_fps_smg_slap_919_dc_sa58" 	    : "SA-58 Extreme Duty Dust Cover",
+	
+	"bm_wp_wpn_fps_smg_slap_919_fh_fal"	    : "FN FAL Flash Hider",
+	
+	"bm_wp_wpn_fps_smg_slap_919_hg_fal" 	    : "FN FAL Handguard (Synthetic)",
+	"bm_wp_wpn_fps_smg_slap_919_pg_fal" 	    : "FN FAL Pistol Grip (Synthetic)",
+	"bm_wp_wpn_fps_smg_slap_919_st_fal"	    : "FN FAL Stock (Synthetic)",
+	"bm_wp_wpn_fps_smg_slap_919_ca_fal" 	    : "FN FAL Carry Handle (Synthetic)",
+	
+	"bm_wp_wpn_fps_smg_slap_919_hg_fal_wood"   : "FN FAL Handguard (Wooden)",
+	"bm_wp_wpn_fps_smg_slap_919_pg_fal_wood"   : "FN FAL Pistol Grip (Wooden)",
+	"bm_wp_wpn_fps_smg_slap_919_st_fal_wood"   : "FN FAL Stock (Wooden)",
+	"bm_wp_wpn_fps_smg_slap_919_ca_fal_wood"   : "FN FAL Carry Handle (Wooden)",
+	
+	"bm_wp_wpn_fps_smg_slap_919_m_30"   	    : "30 Round Steel Magazine"
+	
+}

@@ -1,0 +1,104 @@
+<AddFiles directory="assets">
+
+	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3"/>
+	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_re_mp5a3_cc_thq"/>
+		
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3"/>
+	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_tr_mp5a3_cc_thq"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3"/>
+	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ro_mp5a3_cc_thq"/>
+		
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3"/>
+	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mp5a3_pts/wpn_fps_smg_slap_919_ch_mp5a3_cc_thq"/>
+		
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic"/>
+	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic_cc_thq"/>
+		
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_nm"/>
+		
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef_cc_thq"/>
+		
+	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/stock_retractable_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/stock_retractable_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/stock_retractable_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_st_retract_cc_thq"/>
+
+	<!-- MAG PTS -->
+	
+	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/curve_30_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/curve_30_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/curve_30_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"/>
+	<model   		 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30_cc_thq"/>
+		
+		<!-- UNIT PTS -->
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919"/>
+
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919_npc"/>
+
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/slap_919"/>
+
+</AddFiles>
