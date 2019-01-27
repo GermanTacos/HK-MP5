@@ -1,4 +1,4 @@
-<table name="MP5A3" image="guis/slap_919" color="Color(0.8, 0.2, 0.8)">
+<table name="HK MP5A3" image="guis/slap_919" color="Color(0.8, 0.2, 0.8)">
 
 	<Localization directory="locals" default="english.txt"/>
 	

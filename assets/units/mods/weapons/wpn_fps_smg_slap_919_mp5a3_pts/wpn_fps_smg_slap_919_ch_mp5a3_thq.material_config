@@ -1,4 +1,4 @@
-<materials version="3" group="weapon_group">
+<materials version="3" group="weapon_mp5">
     <material name="mp5a4" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
         <diffuse_texture file="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_df" mip="1"/>
         <bump_normal_texture file="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_nm" mip="1"/>
