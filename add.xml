@@ -49,9 +49,9 @@
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_hg_tropic_cc_thq"/>
 		
-	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_df"/>
-	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_cc"/>
-	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_guard_sef_nm"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_group_sef_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_group_sef_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/trigger_group_sef_nm"/>
 		
 	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
 	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"/>
