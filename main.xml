@@ -95,6 +95,7 @@
 				<value_node value="3"/>
 				<value_node value="9"/>
 			</AMMO_PICKUP>
+			<use_data selection_index="2"/>
 		<!--<sounds fire="slap_919_fire" fire_single="slap_919_fire" fire_auto="slap_919_fire" use_fix="true">
 				<reload wp_scar_clip_slide_out="wp_slap_919_mag_slide_out"  wp_scar_clip_slide_in="wp_slap_919_mag_slide_in"  wp_scar_lever_pull="wp_slap_919_bolt_pull"  wp_scar_lever_release="wp_slap_919_bolt_release"  wp_scar_mag_slap="wp_slap_919_mag_slap"  />
 			</sounds>-->
@@ -187,7 +188,7 @@
 		</factory>
 		<stance>
             <steelsight>
-                <shoulders rotation="0 0 0 -1" translation="-10.71 -5.4 4.1"/>
+            <!--<shoulders rotation="0 0 0 -1" translation="-10.71 -5.4 4.1"/>-->
             </steelsight>
 		</stance>
 	</Weapon>
