@@ -3,6 +3,8 @@
 	"menu_l_global_value_slap_919" : "This is a Custom Weapon!",
 	
 	"bm_w_slap_919" : "MP5",
+	"bm_w_slap_10"  : "MP5/10",
+	"bm_w_slap_40"  : "MP5/40",
 	
 	"bm_menu_receiver"      	   : "Receiver",
 	"bm_menu_receiver_plural"      : "Receivers",
@@ -19,6 +21,7 @@
 	"bm_wp_wpn_fps_smg_slap_919_hg_sd"       : "SD Handguard",
 	"bm_wp_wpn_fps_smg_slap_919_hg_slim"     : "Slimline Handguard",
 	"bm_wp_wpn_fps_smg_slap_919_hg_vent"     : "Vented Handguard",
+	"bm_wp_wpn_fps_smg_slap_919_hg_sure"     : "Surefire 628 Flashlight Handguard",
 	"bm_wp_wpn_fps_smg_slap_919_hg_wood"     : "Wooden Handguard",
 	
 	"bm_wp_wpn_fps_smg_slap_919_tg_navy"     : "Navy Trigger Group",
