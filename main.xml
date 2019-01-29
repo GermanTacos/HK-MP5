@@ -90,15 +90,15 @@
 	<Weapon unlock_level="25">
 		<weapon id="slap_919" based_on="new_mp5" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="5" tactical_reload="1" texture_bundle_folder="mods" global_value="slap_919">
 			<stats damage="65" spread="15" spread_moving="15" recoil="18" concealment="20"/>
-			<fire_mode_data fire_rate="0.1"/>
+			<fire_mode_data fire_rate="0.075"/>
 			<AMMO_PICKUP>
 				<value_node value="3"/>
 				<value_node value="9"/>
 			</AMMO_PICKUP>
 			<use_data selection_index="2"/>
-		<!--<sounds fire="slap_919_fire" fire_single="slap_919_fire" fire_auto="slap_919_fire" use_fix="true">
-				<reload wp_scar_clip_slide_out="wp_slap_919_mag_slide_out"  wp_scar_clip_slide_in="wp_slap_919_mag_slide_in"  wp_scar_lever_pull="wp_slap_919_bolt_pull"  wp_scar_lever_release="wp_slap_919_bolt_release"  wp_scar_mag_slap="wp_slap_919_mag_slap"  />
-			</sounds>-->
+			<sounds fire="slap_919_fire" fire_single="slap_919_fire" fire_auto="slap_919_fire" use_fix="true">
+				<reload wp_mp5_clip_grab_throw="wp_slap_919_mag_slide_out" wp_mp5_clip_slide_in="wp_slap_919_mag_slide_in" wp_mp5_lever_pull="wp_slap_919_bolt_pull" wp_mp5_lever_release="wp_slap_919_bolt_release"/>
+			</sounds>
 			<animations reload_name_id="new_mp5"/>
 		</weapon>
 
@@ -193,27 +193,25 @@
 		</stance>
 	</Weapon>
 	
-<!--<Sounds directory="assets\sounds">
+	<Sounds directory="assets\sounds">
 		<sound id="slap_919_fire" path="slap_919_fire.ogg" prefix="regular"/>
-		<sound id="slap_919_fire" path="slap_919_sup.ogg"  prefix="suppressed_a"/>
-		<sound id="slap_919_fire" path="slap_919_sup.ogg"  prefix="suppressed_b"/>
-		<sound id="slap_919_fire" path="slap_919_sup.ogg"  prefix="suppressed_c"/>
+		<sound id="slap_919_fire" path="slap_919_fire.ogg"  prefix="suppressed_a"/>
+		<sound id="slap_919_fire" path="slap_919_fire.ogg"  prefix="suppressed_b"/>
+		<sound id="slap_919_fire" path="slap_919_fire.ogg"  prefix="suppressed_c"/>
 		<sound id="wp_slap_919_mag_slide_out" path="wp_slap_919_mag_slide_out.ogg" prefix="first"/>
 		<sound id="wp_slap_919_mag_slide_out" path="wp_slap_919_mag_slide_out.ogg" prefix="third"/>
 		<sound id="wp_slap_919_mag_slide_in"  path="wp_slap_919_mag_slide_in.ogg" prefix="first"/>
 		<sound id="wp_slap_919_mag_slide_in"  path="wp_slap_919_mag_slide_in.ogg" prefix="third"/>
-		<sound id="wp_slap_919_mag_slap" 	   path="wp_slap_919_mag_slap.ogg" prefix="first"/>
-		<sound id="wp_slap_919_mag_slap" 	   path="wp_slap_919_mag_slap.ogg" prefix="third"/>
-		<sound id="wp_slap_919_bolt_pull" 	   path="wp_slap_919_bolt_pull.ogg" prefix="first"/>
-		<sound id="wp_slap_919_bolt_pull" 	   path="wp_slap_919_bolt_pull.ogg" prefix="third"/>
+		<sound id="wp_slap_919_bolt_pull" 	  path="wp_slap_919_bolt_pull.ogg" prefix="first"/>
+		<sound id="wp_slap_919_bolt_pull" 	  path="wp_slap_919_bolt_pull.ogg" prefix="third"/>
 		<sound id="wp_slap_919_bolt_release"  path="wp_slap_919_bolt_release.ogg" prefix="first"/>
 		<sound id="wp_slap_919_bolt_release"  path="wp_slap_919_bolt_release.ogg" prefix="third"/>
-	</Sounds>-->
+	</Sounds>
 	
 	<Hooks directory="hooks">
 	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>
-		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
-		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>	-->	
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>-->	
+		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>	
 	</Hooks>
 	
 </table>
