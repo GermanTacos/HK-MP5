@@ -105,6 +105,19 @@
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_vent_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_vent_cc_thq"/>
 	
+	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_surefire_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_surefire_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_surefire_nm"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure_cc_thq"/>
+	
 	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_wood_df"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_wood_cc"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_wood_nm"/>

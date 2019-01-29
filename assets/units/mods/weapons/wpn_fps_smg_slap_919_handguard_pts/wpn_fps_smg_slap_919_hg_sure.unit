@@ -1,6 +1,7 @@
-<unit type="wpn" slot="1" >
+<unit type="wpn" slot="1">
     <object file="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+        <extension name="base" class="WeaponFlashLight" />
+	</extensions>
 </unit>
