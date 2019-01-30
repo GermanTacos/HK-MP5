@@ -1,5 +1,11 @@
 Hooks:PostHook( WeaponTweakData, "init", "MP5A3modInit", function(self)
 
+if BeardLib.Utils:FindMod("Old MP5 Animations") then
+	self.slap_919.pd2_anims_only = true
+	self.slap_919.timers.reload_not_empty = 2.4
+	self.slap_919.timers.reload_empty = 3.6
+end
+
 if ( self.slap_919 ) then
 --- Base stuff ---	
 	self:SetupAttachmentPoint("slap_919", {

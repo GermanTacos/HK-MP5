@@ -103,7 +103,7 @@
 			<sounds fire="slap_919_fire" fire_single="slap_919_fire" fire_auto="slap_919_fire" use_fix="true">
 				<reload wp_mp5_clip_grab_throw="wp_slap_919_mag_slide_out" wp_mp5_clip_slide_in="wp_slap_919_mag_slide_in" wp_mp5_lever_pull="wp_slap_919_bolt_pull" wp_mp5_lever_release="wp_slap_919_bolt_release"/>
 			</sounds>
-			<animations reload_name_id="smp5"/>
+			<animations reload_name_id="mp5"/>
 		</weapon>
 
 		<factory id="wpn_fps_smg_slap_919" unit="units/mods/weapons/wpn_fps_smg_slap_919/wpn_fps_smg_slap_919">
