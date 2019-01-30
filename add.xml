@@ -155,6 +155,15 @@
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retract_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retract_cc_thq"/>
 	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted"/>
+	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted"/>
+	<object  		 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted"/>
+	<unit			 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retracted_cc_thq"/>
+	
 	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/stock_cap_df"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/stock_cap_cc"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/stock_cap_nm"/>
