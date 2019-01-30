@@ -412,7 +412,7 @@
 		</factory>
 		<stance>
 			<steelsight>
-				<shoulders rotation="-0.00425819 0.00548052 3.77467e-005 -0.999976" translation="-40.197 -4.715 0.491"/>
+				<shoulders rotation="-0.00425819 0.00548052 3.77467e-005 -0.999976" translation="-10.197 -4.715 0.491"/>
 			</steelsight>
 		</stance>
 	</Weapon>
