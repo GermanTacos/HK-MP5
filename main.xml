@@ -8,21 +8,23 @@
 
 	<!-- DEFAULT -->
 
-	<WeaponMod id="wpn_fps_smg_slap_919_re_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="receiver"      unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_re_mp5" 	  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_re_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="receiver"      unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_re_mp5" 	  	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_tr_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="trigger"       unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_tr_mp5"		  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_ba_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="barrel2"       unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ba_mp5" 	   	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_ro_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="rear_sight"    unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ro_mp5"        	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_tr_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="trigger"       unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_tr_mp5"		   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_ch_mp5"       based_on="wpn_fps_smg_mp5_fg_mp5a4" type="charge_handle" unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ch_mp5"        	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_ro_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="rear_sight"    unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ro_mp5"          texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_tg_sef"       based_on="wpn_fps_smg_mp5_body_mp5" type="trigger_group" unit="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"    	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_ch_mp5"       based_on="wpn_fps_smg_mp5_fg_mp5a4" type="charge_handle" unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ch_mp5"          texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_slap_919_tg_sef"       based_on="wpn_fps_smg_mp5_body_mp5" type="trigger_group" unit="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_tg_sef"       texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_hg_tropic"    based_on="wpn_fps_smg_mp5_body_mp5" type="handguard"     unit="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_tropic" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_st_retract"   based_on="wpn_fps_smg_mp5_body_mp5" type="stock"         unit="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retract"   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_st_retract"   based_on="wpn_fps_smg_mp5_body_mp5" type="stock"         unit="units/mods/weapons/wpn_fps_smg_slap_919_stock_pts/wpn_fps_smg_slap_919_st_retract"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_smg_slap_919_m_curve_30"   based_on="wpn_fps_smg_mp5_m_std"    type="magazine"      unit="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"	  texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_smg_slap_919_m_curve_30"   based_on="wpn_fps_smg_mp5_m_std"    type="magazine"      unit="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<!-- HANDGUARDS -->
 	
@@ -132,6 +134,7 @@
 			<default_blueprint>
 			
 				<value_node value="wpn_fps_smg_slap_919_re_mp5"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
@@ -145,6 +148,7 @@
 			<uses_parts>
 			
 				<value_node value="wpn_fps_smg_slap_919_re_mp5"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
@@ -253,6 +257,7 @@
 				<value_node value="wpn_fps_smg_slap_10_mw_mp510"/>
 				<value_node value="wpn_fps_smg_slap_10_tg_mp510"/>
 				<value_node value="wpn_fps_smg_slap_10_m_straight_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
@@ -265,7 +270,10 @@
 			
 				<value_node value="wpn_fps_smg_slap_10_re_mp510"/>
 				<value_node value="wpn_fps_smg_slap_10_mw_mp510"/>
+				<value_node value="wpn_fps_smg_slap_10_tg_mp510"/>
 				<value_node value="wpn_fps_smg_slap_10_m_straight_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
+				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_tropic"/>
@@ -363,6 +371,7 @@
 				<value_node value="wpn_fps_smg_slap_40_mw_mp540"/>
 				<value_node value="wpn_fps_smg_slap_10_st_mp540"/>
 				<value_node value="wpn_fps_smg_slap_40_m_straight_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
@@ -373,8 +382,11 @@
 			<uses_parts>
 			
 				<value_node value="wpn_fps_smg_slap_10_re_mp510"/>
+				<value_node value="wpn_fps_smg_slap_10_tg_mp510"/>
 				<value_node value="wpn_fps_smg_slap_40_mw_mp540"/>
+				<value_node value="wpn_fps_smg_slap_10_st_mp540"/>
 				<value_node value="wpn_fps_smg_slap_40_m_straight_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_tr_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ro_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
