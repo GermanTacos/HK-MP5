@@ -4,6 +4,7 @@ if BeardLib.Utils:FindMod("Old MP5 Animations") then
 	self.slap_919.pd2_anims_only = true
 	self.slap_919.timers.reload_not_empty = 2.4
 	self.slap_919.timers.reload_empty = 3.6
+	self.slap_919.use_stance = "slap_919_oldads"
 end
 
 if ( self.slap_919 ) then

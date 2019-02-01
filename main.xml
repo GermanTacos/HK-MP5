@@ -209,7 +209,7 @@
 		</factory>
 		<stance>
 			<steelsight>
-				<shoulders rotation="-0.00425819 0.00548052 3.77467e-005 -0.999976" translation="-10.197 -4.715 0.491"/>
+				<shoulders rotation="-0.00523555 0.00548055 3.23901e-005 -0.999971" translation="-10.197 -4.715 0.42"/>
 			</steelsight>
 		</stance>
 	</Weapon>
@@ -449,7 +449,7 @@
 	</Sounds>
 	
 	<Hooks directory="hooks">
-	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>-->
+		<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>
 		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>	
 		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>	
 	</Hooks>
