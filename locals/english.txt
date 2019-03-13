@@ -33,6 +33,9 @@
 	
 	"bm_wp_wpn_fps_smg_slap_919_m_curve_15"   : "15 Round Curved Magazine",
 	"bm_wp_wpn_fps_smg_slap_919_m_waffle_30"  : "30 Round Waffle Magazine",
-	"bm_wp_wpn_fps_smg_slap_919_m_waffle_15"  : "15 Round Waffle Magazine"
+	"bm_wp_wpn_fps_smg_slap_919_m_waffle_15"  : "15 Round Waffle Magazine",
+	
+	"bm_wp_wpn_fps_smg_slap_919_so_sand"  	: "Sandstorm Sounds",
+	"bm_wp_wpn_fps_smg_slap_919_so_r6"  	: "Rainbow Six Siege Sounds"
 	
 }

@@ -1,4 +1,9 @@
 -[ ] Get some firing sounds from all places
+	-[ ] Rainbow Six Siege
+	-[ ] Call of Duty MW1
+	-[ ] Call of Duty BO2
+	-[ ] Black Mesa
+	-[ ] 
 -[ ] Add FM attachments (BO2, MP5SD)
 -[ ] Fix the Stance
 -[ ] CAP for sights and gadgets

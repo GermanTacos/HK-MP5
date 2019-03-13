@@ -424,6 +424,9 @@
 	
 	<!-- ICONS -->
 
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_smg_slap_919_so_sand"/>
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_smg_slap_919_so_r6"/>
+	
 	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/slap_919"/>
 	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/slap_10"/>
 	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/slap_40"/>

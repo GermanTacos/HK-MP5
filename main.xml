@@ -108,6 +108,21 @@
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_sm_claw"      based_on="wpn_fps_smg_mp5_body_mp5" type="scope_mount"   unit="units/mods/weapons/wpn_fps_smg_slap_919_shared_pts/wpn_fps_smg_slap_919_sm_claw"      texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<!-- Sounds -->
+	
+	<WeaponMod id="wpn_fps_smg_slap_919_so_sand" based_on="wpn_fps_upg_a_custom_free" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" type="sound" drop="false" texture_bundle_folder="mods" is_a_unlockable="true">
+	<sound_switch suppressed="regular_b"/>
+	   <stats damage="0"/>
+	   <pcs/>
+    </WeaponMod>
+	
+	<WeaponMod id="wpn_fps_smg_slap_919_so_r6" based_on="wpn_fps_upg_a_custom_free" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" type="sound" drop="false" texture_bundle_folder="mods" is_a_unlockable="true">
+	<sound_switch suppressed="regular_c"/>
+	   <stats damage="0"/>
+	   <pcs/>
+    </WeaponMod>
+	
+	
 	<Weapon unlock_level="25">
 		<weapon id="slap_919" based_on="new_mp5" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="5" tactical_reload="1" texture_bundle_folder="mods" global_value="slap_919">
 			<stats damage="65" spread="15" spread_moving="15" recoil="18" concealment="20"/>
@@ -174,6 +189,9 @@
 				<value_node value="wpn_fps_smg_slap_919_m_curve_15"/>
 				<value_node value="wpn_fps_smg_slap_919_m_waffle_30"/>
 				<value_node value="wpn_fps_smg_slap_919_m_waffle_15"/>
+				
+				<value_node value="wpn_fps_smg_slap_919_so_sand"/>
+				<value_node value="wpn_fps_smg_slap_919_so_r6"/>
 				
 				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
 				<value_node value="wpn_fps_upg_ns_ass_smg_medium"/>
@@ -446,10 +464,12 @@
 	</Weapon>
 	
 	<Sounds directory="assets\sounds">
-		<sound id="slap_919_fire" path="slap_919_fire.ogg" prefix="regular"/>
+		<sound id="slap_919_fire" path="slap_919_fire.ogg" 	prefix="regular"/>
 		<sound id="slap_919_fire" path="slap_919_supp.ogg"  prefix="suppressed_a"/>
 		<sound id="slap_919_fire" path="slap_919_supp.ogg"  prefix="suppressed_b"/>
 		<sound id="slap_919_fire" path="slap_919_supp.ogg"  prefix="suppressed_c"/>
+		<sound id="slap_919_fire" path="mp5_fire_sand.ogg" 	prefix="regular_b"/>
+		<sound id="slap_919_fire" path="mp5_fire_r6.ogg" 	prefix="regular_c"/>
 		<sound id="wp_slap_919_mag_slide_out" path="wp_slap_919_mag_slide_out.ogg" prefix="first"/>
 		<sound id="wp_slap_919_mag_slide_out" path="wp_slap_919_mag_slide_out.ogg" prefix="third"/>
 		<sound id="wp_slap_919_mag_slide_in"  path="wp_slap_919_mag_slide_in.ogg" prefix="first"/>
