@@ -6,6 +6,8 @@
 	<texture		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_cc"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/body_mp5_nm"/>
 
+	<unit_obj		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ba_dummy"/>
+
 	<cooked_physics  path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_re_mp5"/>
 	<model  		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_re_mp5"/>
 	<object 		 path="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_re_mp5"/>

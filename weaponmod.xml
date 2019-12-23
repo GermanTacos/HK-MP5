@@ -6,6 +6,8 @@
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_ba_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="barrel2"       unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ba_mp5" 	   	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<WeaponMod id="wpn_fps_smg_slap_919_ba_dummy"     based_on="wpn_fps_smg_mp5_b_mp5a5"  type="barrel"        unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ba_dummy" 	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
 	<WeaponMod id="wpn_fps_smg_slap_919_tr_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="trigger"       unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_tr_mp5"		   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_ro_mp5"       based_on="wpn_fps_smg_mp5_body_mp5" type="rear_sight"    unit="units/mods/weapons/wpn_fps_smg_slap_919_mp5_pts/wpn_fps_smg_slap_919_ro_mp5"          texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
@@ -20,6 +22,14 @@
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_m_curve_30"   based_on="wpn_fps_smg_mp5_m_std"    type="magazine"      unit="units/mods/weapons/wpn_fps_smg_slap_919_mag_pts/wpn_fps_smg_slap_919_m_curve_30"	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<WeaponMod id="wpn_fps_smg_slap_919_o_dummy" 	  based_on="wpn_fps_smg_mp5_body_mp5" type="sight" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" drop="false" is_a_unlockable="false">
+		<stance_mod>
+			<wpn_fps_smg_slap_919 rotation="0.001309 -0 -0 -0.999999" translation="0.01 -4 0.62"/>
+			<wpn_fps_smg_slap_40 rotation="0.001309 -0 -0 -0.999999" translation="0.01 -4 0.62"/>
+			<wpn_fps_smg_slap_10 rotation="0.001309 -0 -0 -0.999999" translation="0.01 -4 0.62"/>
+		</stance_mod>
+	</WeaponMod>
+
 	<!-- HANDGUARDS -->
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_hg_ris"       based_on="wpn_fps_smg_mp5_body_mp5" type="handguard"     unit="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_ris"   texture_bundle_folder="mods" drop="false" is_a_unlockable="true">

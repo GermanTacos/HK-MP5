@@ -23,6 +23,9 @@
 				<value_node value="barrel_ext"/>
 			</optional_types>
 			
+			<adds/>
+			<override/>
+			
 			<default_blueprint>
 			
 				<value_node value="wpn_fps_smg_slap_919_re_mp5"/>
@@ -34,6 +37,8 @@
 				<value_node value="wpn_fps_smg_slap_919_tg_sef"/>
 				<value_node value="wpn_fps_smg_slap_919_st_retract"/>
 				<value_node value="wpn_fps_smg_slap_919_m_curve_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_dummy"/>
+				<value_node value="wpn_fps_smg_slap_919_o_dummy"/>
 				
 			</default_blueprint>
 			
@@ -48,6 +53,8 @@
 				<value_node value="wpn_fps_smg_slap_919_tg_sef"/>
 				<value_node value="wpn_fps_smg_slap_919_st_retract"/>
 				<value_node value="wpn_fps_smg_slap_919_m_curve_30"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_dummy"/>
+				<value_node value="wpn_fps_smg_slap_919_o_dummy"/>
 				
 				<value_node value="wpn_fps_smg_slap_919_hg_ris"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_sd"/>
@@ -108,9 +115,10 @@
 		</factory>
 		<stance>
 			<steelsight>
-				<shoulders rotation="-0.00523555 0.00548055 3.23901e-005 -0.999971" translation="-10.197 -4.715 0.42"/>
+				<shoulders rotation="-0.00654451 0.00548059 2.5216e-005 -0.999964" translation="-10.197 -5.715 -0.2"/>
 			</steelsight>
 		</stance>
+
 	</Weapon>
 
 </table>

@@ -33,6 +33,9 @@
 				<value_node value="barrel_ext"/>
 			</optional_types>
 			
+			<adds/>
+			<override/>
+			
 			<default_blueprint>
 			
 				<value_node value="wpn_fps_smg_slap_10_re_mp510"/>
@@ -45,6 +48,8 @@
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_tropic"/>
 				<value_node value="wpn_fps_smg_slap_919_st_retract"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_dummy"/>
+				<value_node value="wpn_fps_smg_slap_919_o_dummy"/>
 				
 			</default_blueprint>
 			
@@ -60,6 +65,8 @@
 				<value_node value="wpn_fps_smg_slap_919_ch_mp5"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_tropic"/>
 				<value_node value="wpn_fps_smg_slap_919_st_retract"/>
+				<value_node value="wpn_fps_smg_slap_919_ba_dummy"/>
+				<value_node value="wpn_fps_smg_slap_919_o_dummy"/>
 				
 				<value_node value="wpn_fps_smg_slap_919_hg_ris"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_sd"/>
