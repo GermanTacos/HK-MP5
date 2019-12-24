@@ -9,8 +9,8 @@
 	<XML path="add.xml"/>
 	<XML path="sound.xml"/>
 	<XML path="weapon.xml"/>
-	<XML path="mp510.xml"/>
-	<XML path="mp540.xml"/>
+	<!-- <XML path="mp510.xml"/> -->
+	<!-- <XML path="mp540.xml"/> -->
 	<XML path="weaponmod.xml"/>
 	
 	<Hooks directory="hooks">
