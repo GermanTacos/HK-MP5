@@ -57,7 +57,7 @@
 				<value_node value="wpn_fps_smg_slap_919_o_dummy"/>
 				
 				<value_node value="wpn_fps_smg_slap_919_hg_ris"/>
-				<value_node value="wpn_fps_smg_slap_919_hg_sd"/>
+				<!-- <value_node value="wpn_fps_smg_slap_919_hg_sd"/> -->
 				<value_node value="wpn_fps_smg_slap_919_hg_slim"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_vent"/>
 				<value_node value="wpn_fps_smg_slap_919_hg_sure"/>

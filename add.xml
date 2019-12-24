@@ -19,8 +19,8 @@
 	<df_nm_cc		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_ris"/>
 	<unit_mat_cc	 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_ris"/>
 	
-	<df_nm_cc		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_sd"/>
-	<unit_mat_cc	 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sd"/>
+	<!-- <df_nm_cc		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_sd"/> -->
+	<!-- <unit_mat_cc	 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sd"/> -->
 	
 	<df_nm_cc		 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/handguard_slimline"/>
 	<unit_mat_cc	 path="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_slim"/>
