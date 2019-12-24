@@ -16,6 +16,13 @@ local vanilla_mp5sight = {
 	"wpn_fps_upg_o_rx30",
 	"wpn_fps_upg_o_spot"
 }
+local vanilla_mp5_fl = {
+	"wpn_fps_upg_fl_ass_smg_sho_peqbox",
+	"wpn_fps_upg_fl_ass_smg_sho_surefire",
+	"wpn_fps_upg_fl_ass_peq15",
+	"wpn_fps_upg_fl_ass_laser",
+	"wpn_fps_upg_fl_ass_utg"
+}
 
 --- Gun ---
 for id, o_id in pairs(vanilla_mp5sight) do
@@ -56,4 +63,18 @@ end
 		
 	end
 	
+	for id, fl_id in pairs(vanilla_mp5_fl) do
+		self.parts.wpn_fps_smg_slap_919_hg_ris.override[fl_id] = {a_obj="a_fl_ris"}
+	end
+	
+	--- Vanilla sights ---
+	for id, o_id in pairs(vanilla_mp5sight) do
+		if self.parts[o_id].stance_mod.wpn_fps_smg_mp5 then
+			self.parts[o_id].stance_mod.wpn_fps_smg_slap_919 = deep_clone(self.parts[o_id].stance_mod.wpn_fps_smg_mp5)
+			self.parts[o_id].stance_mod.wpn_fps_smg_slap_40 = deep_clone(self.parts[o_id].stance_mod.wpn_fps_smg_mp5)
+			self.parts[o_id].stance_mod.wpn_fps_smg_slap_10 = deep_clone(self.parts[o_id].stance_mod.wpn_fps_smg_mp5)
+		else
+			log("[MP5] [ERROR] WHO THE FUCK MESSED WITH SIGHT STANCES THIS TIME!? " .. o_id)
+		end
+	end
 end )

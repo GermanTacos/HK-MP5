@@ -22,6 +22,12 @@ if self.SetupAttachmentPoint then
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint("slap_919", {
+		name = "a_fl_ris", 
+        base_a_obj = "a_fl", 
+        position = Vector3( -0.3, 4, 0 ), 
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	self:SetupAttachmentPoint("slap_919", {
 		name = "a_gl", 
         base_a_obj = "a_fl", 
         position = Vector3( -2.88, 27.2, -3.1 ), 
