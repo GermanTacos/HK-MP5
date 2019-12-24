@@ -2,15 +2,15 @@
 
 	<Localization directory="locals" default="english.txt"/>
 	
-<!--<AssetUpdates id="xxxxx" name="asset_updates" folder_name="MP5A3" version="1.0" provider="modworkshop"/>-->
+	<AssetUpdates id="26235" name="asset_updates" folder_name="HK-MP5" version="1.0" provider="modworkshop"/>
 
 	<GlobalValue id="slap_919" color="Color(0.8, 0.2, 0.8)"/>
 
 	<XML path="add.xml"/>
 	<XML path="sound.xml"/>
 	<XML path="weapon.xml"/>
-	<XML path="mp510.xml"/>
-	<XML path="mp540.xml"/>
+	<!-- <XML path="mp510.xml"/> -->
+	<!-- <XML path="mp540.xml"/> -->
 	<XML path="weaponmod.xml"/>
 	
 	<Hooks directory="hooks">
