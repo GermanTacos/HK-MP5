@@ -30,6 +30,43 @@ for id, o_id in pairs(vanilla_mp5sight) do
 	self.wpn_fps_smg_slap_40.adds[o_id] = {"wpn_fps_smg_slap_919_sm_claw"}
 	self.wpn_fps_smg_slap_10.adds[o_id] = {"wpn_fps_smg_slap_919_sm_claw"}
 end
+--- CAFCW aka better later then never also holy shit this actually works ---
+if attach_tables then
+	--[[
+	for _, md_id in pairs(attach_tables.Barrel_Extensions) do
+		if self.parts[md_id] then
+			table.insert(all_akmext, md_id)
+		end
+	end
+	for _, md_id in pairs(attach_tables.Suppressors) do
+		if self.parts[md_id] then
+			table.insert(all_akmext, md_id)
+		end
+	end
+	]]
+	for _, fl_id in pairs(attach_tables.Gadgets) do
+		if self.parts[fl_id] then
+			table.insert(vanilla_mp5_fl, fl_id)
+		end
+	end
+	--[[
+	for _, o_id in pairs(attach_tables.ACOG) do
+		if self.parts[o_id] then
+			table.insert(vanilla_mp5sight, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Custom) do
+		if self.parts[o_id] then
+			table.insert(vanilla_mp5sight, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Specter) do
+		if self.parts[o_id] then
+			table.insert(vanilla_mp5sight, o_id)
+		end
+	end
+	]]
+end
 
 
 	if BeardLib.Utils:FindMod("Old MP5 Animations") then
