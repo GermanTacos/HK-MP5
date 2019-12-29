@@ -57,6 +57,9 @@
 	
 	<WeaponMod id="wpn_fps_smg_slap_919_hg_sure"      based_on="wpn_fps_smg_mp5_fg_mp5a4" type="handguard"     unit="units/mods/weapons/wpn_fps_smg_slap_919_handguard_pts/wpn_fps_smg_slap_919_hg_sure"  texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<stats recoil="2" concealment="-2"/>
+		<forbids>
+			<value_node value="wpn_fps_upg_ns_ass_pbs1"/>
+		</forbids>
 		<pcs/>
 	</WeaponMod>
 	
